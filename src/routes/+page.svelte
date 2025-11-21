@@ -82,26 +82,24 @@
             <h2 class="text-2xl md:text-4xl font-medium mb-8 text-beige-950">
                 The Thesis
             </h2>
-            <div class="prose prose-beige prose-xl text-beige-900 max-w-none">
-                <p class="mb-6">
+            <div class="text-xl text-beige-900 leading-relaxed space-y-6">
+                <p>
                     The most valuable collectible has never been the Hall of
                     Fame plaque.<br />It’s always been the rookie card—signed
                     before the first game.
                 </p>
-                <p class="mb-6">
+                <p>
                     That value was always there. In the before-time. When they
                     were prenormous.
                 </p>
-                <p class="mb-6">
+                <p>
                     Patronage died because there was no liquid market. You had
                     to lock capital for decades with no price signal and no
                     exit.
                 </p>
-                <p class="mb-6 font-medium text-beige-950">
-                    Crypto fixes that.
-                </p>
-                <p class="mb-6">Now you can:</p>
-                <ul class="list-disc pl-5 space-y-3 mb-8 marker:text-beige-900">
+                <p class="font-medium text-beige-950">Crypto fixes that.</p>
+                <p>Now you can:</p>
+                <ul class="list-disc pl-5 space-y-3 marker:text-beige-900">
                     <li>
                         Create real scarcity (limited artifacts from the
                         before-time)
@@ -119,7 +117,7 @@
                         honest price discovery
                     </li>
                 </ul>
-                <p class="mb-6">
+                <p>
                     Money backed by meaning.<br />An asset class that tracks
                     cultural significance as it compounds.
                 </p>
@@ -135,11 +133,11 @@
             <h2 class="text-2xl md:text-4xl font-medium mb-8 text-beige-950">
                 The Proof-of-Concept We’re Shipping Right Now
             </h2>
-            <div class="prose prose-beige prose-xl text-beige-900 max-w-none">
-                <p class="mb-6">
+            <div class="text-xl text-beige-900 leading-relaxed space-y-6">
+                <p>
                     <strong class="text-beige-950">PLUM</strong> — a debut novelist.
                 </p>
-                <ul class="list-none space-y-3 mb-8">
+                <ul class="list-none space-y-3">
                     <li>
                         10,000 signed, serialized, never-reprinted first
                         editions. Each tokenized.
@@ -149,14 +147,12 @@
                         distributions with aligned curriculum.
                     </li>
                 </ul>
-                <p class="mb-6">
+                <p>
                     Tokenomics are fully designed.<br />Manuscript is finished.<br
                     />Launch: Q2–Q3 2026.
                 </p>
-                <p class="mb-6">
-                    If PLUM works, we’ve validated the entire asset class.
-                </p>
-                <p class="mb-6">But we’re not a book launch company.</p>
+                <p>If PLUM works, we’ve validated the entire asset class.</p>
+                <p>But we’re not a book launch company.</p>
                 <p class="font-medium text-beige-950">
                     We’re the first mover in a category that will be worth tens
                     (maybe hundreds) of billions.
@@ -170,9 +166,9 @@
             <h2 class="text-2xl md:text-4xl font-medium mb-8 text-beige-950">
                 The Company We’re Actually Building
             </h2>
-            <div class="prose prose-beige prose-xl text-beige-900 max-w-none">
-                <p class="mb-6">Someone needs to:</p>
-                <ul class="list-disc pl-5 space-y-3 mb-8 marker:text-beige-900">
+            <div class="text-xl text-beige-900 leading-relaxed space-y-6">
+                <p>Someone needs to:</p>
+                <ul class="list-disc pl-5 space-y-3 marker:text-beige-900">
                     <li>Curate prenormous talent across every vertical</li>
                     <li>
                         Build the rails (provenance, physical↔crypto linkage,
@@ -188,15 +184,13 @@
                         Cultural Gold play”
                     </li>
                 </ul>
-                <p class="mb-6">
-                    That someone is going to be a new venture firm.
-                </p>
-                <p class="mb-6 font-medium text-beige-950">I’m starting it.</p>
-                <p class="mb-6">
+                <p>That someone is going to be a new venture firm.</p>
+                <p class="font-medium text-beige-950">I’m starting it.</p>
+                <p>
                     I have the first project fully architected.<br />I have the
                     thesis.<br />I have the name.
                 </p>
-                <p class="mb-6">
+                <p>
                     I don’t yet have the full team or the second rookie-card
                     artist.
                 </p>
@@ -235,12 +229,10 @@
                         People who see the Sequoia-level opportunity in cultural
                         gold and want to help build the firm from day zero.
                     </p>
-                    <p class="text-beige-800 mb-4 text-lg font-medium">
+                    <p class="text-beige-800 mb-4 text-xl font-medium">
                         Especially:
                     </p>
-                    <ul
-                        class="list-disc pl-5 space-y-2 text-beige-900 text-lg marker:text-beige-900"
-                    >
+                    <ul class="list-none space-y-2 text-beige-900 text-xl">
                         <li>
                             Technical architects (smart contracts, provenance,
                             physical-crypto bridging)
