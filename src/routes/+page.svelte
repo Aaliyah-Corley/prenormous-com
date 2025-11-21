@@ -144,11 +144,20 @@
                     </li>
                     <li>
                         Proceeds fund a 20-year mission: 100,000+ classroom
-                        distributions with aligned curriculum.
+                        distributions with aligned curriculum. <a
+                            href="https://itscanon.com/plum-candy"
+                            class="underline decoration-beige-400 hover:text-beige-950 transition-colors"
+                            >itscanon.com/plum-candy</a
+                        >
                     </li>
                 </ul>
                 <p>
-                    Tokenomics are fully designed.<br />Manuscript is finished.<br
+                    <a
+                        href="https://plumcandy.org/tokenomics"
+                        class="underline decoration-beige-400 hover:text-beige-950 transition-colors"
+                        >Tokenomics</a
+                    >
+                    are fully designed.<br />Manuscript is finished.<br
                     />Launch: Q2–Q3 2026.
                 </p>
                 <p>If PLUM works, we’ve validated the entire asset class.</p>
@@ -253,10 +262,8 @@
             <h2 class="text-2xl md:text-4xl font-medium mb-8 text-beige-950">
                 Want in?
             </h2>
-            <div class="prose prose-beige prose-xl text-beige-900 max-w-none">
-                <ol
-                    class="list-decimal pl-5 space-y-6 mb-10 marker:text-beige-900"
-                >
+            <div class="text-xl text-beige-900 leading-relaxed space-y-6">
+                <ol class="list-decimal pl-5 space-y-6 marker:text-beige-900">
                     <li>
                         Pick any artifact you’ve made (song, repo, painting,
                         meme, 40-second TikTok—literally whatever).
@@ -268,9 +275,9 @@
                         >.
                     </li>
                 </ol>
-                <p class="mb-3">I reply to every single one.</p>
-                <p class="mb-3">Average response time right now: 11 hours.</p>
-                <p class="mb-8">If it’s a fit, we jump on a 15-min call.</p>
+                <p>I reply to every single one.</p>
+                <p>Average response time right now: 11 hours.</p>
+                <p>If it’s a fit, we jump on a 15-min call.</p>
                 <p class="text-2xl font-medium text-beige-950">
                     Send the artifact. Consensus comes later.
                 </p>
