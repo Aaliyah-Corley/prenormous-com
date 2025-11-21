@@ -35,19 +35,16 @@ We call it **Cultural Gold**.
 
 ## The Proof-of-Concept We’re Shipping Right Now
 
-**PLUM** — a debut novelist.  
-10,000 signed, serialized, never-reprinted first editions. Each tokenized.  
-Proceeds fund a 20-year mission: 100,000+ classroom distributions with aligned curriculum.
-
-Tokenomics are fully designed.  
+A 17-year-old debut novelist (That's me). 10,000 signed, serialized first editions created before anyone knew her name. Each tokenized. Funds directed to a decades-long mission: 100,000 classroom distributions, curriculum development, systematic cultural penetration.
+Tokenomics are fully designed. plumcandy.org/tokenomics
 Manuscript is finished.  
-Launch: Q2–Q3 2026.
-
-If PLUM works, we’ve validated the entire asset class.
-
-But we’re not a book launch company.
-
-We’re the first mover in a category that will be worth tens (maybe hundreds) of billions.
+Teachers Pitch - You can see it here itscanon.com/plum-candy
+Launch: Q3–Q4 2026.
+If it works—if we prove you can create liquid markets for prenormous talent that track real cultural value.
+We're not just launching a book.
+We’re not a book launch company.
+We're validating an asset class.
+We’re the first mover in a category that will be worth tens (maybe hundreds) of billions: cultural gold.
 
 ---
 

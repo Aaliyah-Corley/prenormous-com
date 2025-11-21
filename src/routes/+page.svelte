@@ -135,36 +135,38 @@
             </h2>
             <div class="text-xl text-beige-900 leading-relaxed space-y-6">
                 <p>
-                    <strong class="text-beige-950">PLUM</strong> — a debut novelist.
+                    A 17-year-old debut novelist (That's me). 10,000 signed,
+                    serialized first editions created before anyone knew her
+                    name. Each tokenized. Funds directed to a decades-long
+                    mission: 100,000 classroom distributions, curriculum
+                    development, systematic cultural penetration.
                 </p>
-                <ul class="list-none space-y-3">
-                    <li>
-                        10,000 signed, serialized, never-reprinted first
-                        editions. Each tokenized.
-                    </li>
-                    <li>
-                        Proceeds fund a 20-year mission: 100,000+ classroom
-                        distributions with aligned curriculum. <a
-                            href="https://itscanon.com/plum-candy"
-                            class="underline decoration-beige-400 hover:text-beige-950 transition-colors"
-                            >itscanon.com/plum-candy</a
-                        >
-                    </li>
-                </ul>
                 <p>
-                    <a
+                    Tokenomics are fully designed. <a
                         href="https://plumcandy.org/tokenomics"
                         class="underline decoration-beige-400 hover:text-beige-950 transition-colors"
-                        >Tokenomics</a
+                        >plumcandy.org/tokenomics</a
                     >
-                    are fully designed.<br />Manuscript is finished.<br
-                    />Launch: Q2–Q3 2026.
                 </p>
-                <p>If PLUM works, we’ve validated the entire asset class.</p>
-                <p>But we’re not a book launch company.</p>
+                <p>Manuscript is finished.</p>
+                <p>
+                    Teachers Pitch - You can see it here <a
+                        href="https://itscanon.com/plum-candy"
+                        class="underline decoration-beige-400 hover:text-beige-950 transition-colors"
+                        >itscanon.com/plum-candy</a
+                    >
+                </p>
+                <p>Launch: Q3–Q4 2026.</p>
+                <p>
+                    If it works—if we prove you can create liquid markets for
+                    prenormous talent that track real cultural value.
+                </p>
+                <p>We're not just launching a book.</p>
+                <p>We’re not a book launch company.</p>
+                <p>We're validating an asset class.</p>
                 <p class="font-medium text-beige-950">
                     We’re the first mover in a category that will be worth tens
-                    (maybe hundreds) of billions.
+                    (maybe hundreds) of billions: cultural gold.
                 </p>
             </div>
         </section>
